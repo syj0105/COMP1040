@@ -1,0 +1,111 @@
+023090,Adelaide
+009741,Albany
+015590,Alice Springs
+040004,Amberley
+036007,Barcaldine
+063005,Bathurst
+038026,Birdsville
+038003,Boulia
+048245,Bourke
+009510,Bridgetown
+040842,Brisbane Airport
+003003,Broome Airport
+039128,Bundaberg
+029077,Burketown
+096003,Butlers Gorge
+072161,Cabramurra
+031011,Cairns
+037010,Camooweal
+070351,Canberra
+022823,Cape Borda
+094010,Cape Bruny Lighthouse
+009518,Cape Leeuwin
+040043,Cape Moreton
+090015,Cape Otway Lighthouse
+006011,Carnarvon
+018012,Ceduna
+044021,Charleville
+034084,Charters Towers
+048027,Cobar
+059040,Coffs Harbour
+010286,Cunderdin
+008039,Dalwallinu
+014015,Darwin
+074258,Deniliquin
+065070,Dubbo
+009789,Esperance
+011003,Eucla
+011052,Forrest
+084016,Gabo Island
+039066,Gayndah
+030124,Georgetown
+008051,Geraldton
+013017,Giles
+094220,Grove
+055024,Gunnedah
+002012,Halls Creek
+094029,Hobart
+027058,Horn Island
+056242,Inverell
+012038,Kalgoorlie-Boulder
+001019,Kalumburu
+010579,Katanning
+080023,Kerang
+018044,Kyancutta
+092045,Larapuna (Eddystone Point)
+091311,Launceston Airport
+087031,Laverton RAAF
+005007,Learmonth
+036031,Longreach
+091293,Low Head
+033119,Mackay
+004106,Marble Bar
+017031,Marree
+007045,Meekatharra
+086071,Melbourne Regional Office
+010092,Merredin
+076031,Mildura
+042112,Miles
+008296,Morawa
+053115,Moree
+069018,Moruya Heads
+026021,Mount Gambier
+078015,Nhill
+029063,Normanton
+068072,Nowra
+023373,Nuriootpa
+017043,Oodnadatta
+084145,Orbost
+009021,Perth
+068151,Point Perpendicular
+004032,Port Hedland
+018192,Port Lincoln
+060139,Port Macquarie
+015666,Rabbit Flat
+067105,Richmond (NSW)
+030045,Richmond (Qld)
+026026,Robe
+039083,Rockhampton
+082039,Rutherglen
+085072,Sale
+061363,Scone
+021133,Snowtown
+043109,St George
+066062,Sydney
+016098,Tarcoola
+015135,Tennant Creek
+045025,Thargomindah
+046037,Tibooburra
+032040,Townsville
+014825,Victoria River Downs
+072150,Wagga Wagga
+052088,Walgett
+010917,Wandering
+027045,Weipa
+046043,Wilcannia
+061078,Williamtown
+085096,Wilsons Promontory
+005026,Wittenoom
+016001,Woomera
+073054,Wyalong
+058012,Yamba
